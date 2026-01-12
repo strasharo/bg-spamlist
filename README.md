@@ -1,1 +1,1 @@
-Contact list containing Bulgarian robocall spam numbers. PRs are welcome.
+Списък с контакти съдържащ български спам номера за роботизирани обаждания. PR-ите са добре дошли.
